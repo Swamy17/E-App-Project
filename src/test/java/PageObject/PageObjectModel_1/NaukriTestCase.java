@@ -24,6 +24,7 @@ public class NaukriTestCase extends MasterPage {
 	    public void setUp() {
 		initialization();
 		homePage=new NaukriHomePage();//I have not gave reference initially i.e reason it is getting error.
+		System.out.println("Class is updated");
 		}
 	
 	
