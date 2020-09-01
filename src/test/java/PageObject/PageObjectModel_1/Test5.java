@@ -9,12 +9,14 @@ public class Test5 {
 		System.out.println(b);
 	}
 	
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
 	
 		
 		Test5 a=new Test5();
 		a.m1(8);
 		a.m1(9);
+		a.m1(100);
 		
 
 	}
