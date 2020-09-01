@@ -14,6 +14,8 @@ public class Test5 {
 		
 		Test5 a=new Test5();
 		a.m1(8);
+		a.m1(9);
+		
 
 	}
 
